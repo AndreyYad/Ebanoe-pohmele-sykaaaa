@@ -431,6 +431,11 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_idea_kriklivy_seym"
+		texturefile = "gfx/interface/ideas/kriklivy_seym.dds"
+	}
+	
+	spriteType = {
 		name = "GFX_idea_kakoy_to_tam_pakt"
 		texturefile = "gfx/interface/ideas/kakoy_to_tam_pakt.dds"
 	}
