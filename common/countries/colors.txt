@@ -1,4 +1,8 @@
 #reload countrycolors
+AZH = {
+	color = rgb { 0 99 0 }
+	color_ui = rgb { 0 99 0 }
+}
 LAN = {
 	color = rgb { 45 53 63 }
 	color_ui = rgb { 55 63 73 }
